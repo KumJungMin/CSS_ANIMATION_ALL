@@ -1,4 +1,4 @@
-# css애니메이션 공부 모음   *2020.07.15(수정)*
+# css애니메이션 공부 모음   *2020.11.29(수정)*
 
 <br/>
 
@@ -18,7 +18,8 @@
 |12| <a href="https://github.com/KumJungMin/CSS_ANIMATION_BEFORE_TEXT_ANIMATION">hover시 text가 invert하는 애니메이션</a> | <img width="50%" src="https://camo.githubusercontent.com/3da6883672feff68c33747cc5081c6c4238069fe/68747470733a2f2f6a2e676966732e636f6d2f7a764a78565a2e676966" /> |
 |13|  <a href="https://github.com/KumJungMin/CSS_ANIMATION_FORM_FIELD">Form 필드 애니메이션</a>| <img width="50%" src="https://media.giphy.com/media/jTU3P3NOlqUKCmfApD/giphy.gif"/> |
 |14|  <a href="https://github.com/KumJungMin/CSS_ANIMATION_GRADIENT_BAR/">그라데이션 바 애니메이션</a>| <img width="50%" src="https://media.giphy.com/media/jSPFuSQKwz62t8XqvI/giphy.gif"/> |
-|15|  |  |
-|16|  |  |
+|15|  <a href="https://velog.io/@gicomong/css100-day1">햄버거 메뉴</a>|  <img src="https://media.vlpt.us/images/gicomong/post/ec47c7e2-9a59-4f60-964b-fcce18436288/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-11-29%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.03.18.png" width="50%"/>|
+|16| <a href="https://velog.io/@gicomong/css100-day2">해가 지는 애니메이션</a> | <img src="https://media.vlpt.us/images/gicomong/post/97483f15-df76-4f46-864e-ac90cf48b98f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-11-29%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.03.51.png" width="50%"/> |
+|16| <a href="https://velog.io/@gicomong/css100-day3">세 원이 차례로 커지는 애니메이션</a> |  <img src="https://media.vlpt.us/images/gicomong/post/e8a8ade6-5544-4f26-9101-a85ea8a12e77/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-11-29%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.29.22.png" width="50%"/>|
 
 
