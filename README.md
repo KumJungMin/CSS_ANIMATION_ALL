@@ -1,4 +1,4 @@
-# css애니메이션 공부 모음   *2020.12.01(수정)*
+# css애니메이션 공부 모음   *2020.12.02(수정)*
 
 <br/>
 
@@ -22,6 +22,5 @@
 |16| <a href="https://velog.io/@gicomong/css100-day2">해가 지는 애니메이션</a> | <img src="https://j.gifs.com/K13gEz.gif" width="50%"/> |
 |16| <a href="https://velog.io/@gicomong/css100-day3">세 원이 차례로 커지는 애니메이션</a> |  <img src="https://j.gifs.com/lxrZEJ.gif" width="50%"/>|
 |17| <a href="https://velog.io/@gicomong/css100-day4">canvas로 그리는 차트</a> |  <img src="https://media.vlpt.us/images/gicomong/post/c14ea399-1a11-41e8-bf7a-cab5b867083e/KakaoTalk_Photo_2020-11-30-21-09-04.png" width="50%"/>|
-|17| <a href="https://velog.io/@gicomong/css100-day5">일부가 투명한 원과 프로필</a> |  <img src="https://j.gifs.com/NL3l1K.gif" width="50%"/>|
-
-
+|18| <a href="https://velog.io/@gicomong/css100-day5">일부가 투명한 원과 프로필</a> |  <img src="https://j.gifs.com/NL3l1K.gif" width="50%"/>|
+|19| <a href="https://velog.io/@gicomong/css100-day6">검색창, 메뉴 이벤트</a> |  <img src="https://j.gifs.com/k8qyA6.gif" width="50%"/>|
