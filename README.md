@@ -26,4 +26,4 @@
 |20| <a href="https://velog.io/@gicomong/css100-day6">검색창, 메뉴 이벤트</a> |  <img src="https://j.gifs.com/k8qyA6.gif" width="50%"/>|
 |21| <a href="https://velog.io/@gicomong/css100-day7">구름, 버블 이벤트</a> |  <img src="https://j.gifs.com/JyvDWJ.gif" width="50%"/>|
 |21| <a href="https://velog.io/@gicomong/css100-day10">신호등 만들기</a> |  <img src="https://j.gifs.com/r8zgEw.gif" width="50%"/>|
-|21| <a href="https://velog.io/@gicomong/css-animation-hover%EC%8B%9C-%EC%83%89%EC%9D%B4-%EB%B3%80%ED%95%98%EB%8A%94-%EC%9D%B4%EB%B2%A4%ED%8A%B8">hover시 랜덤으로 색이 변하는 이벤트</a> |  <img src="https://j.gifs.com/oVwA7A.gif" width="50%"/> |
+|21| <a href="https://velog.io/@gicomong/css-animation-hover%EC%8B%9C-%EC%83%89%EC%9D%B4-%EB%B3%80%ED%95%98%EB%8A%94-%EC%9D%B4%EB%B2%A4%ED%8A%B8">hover시 랜덤으로 색이 변하는 이벤트</a> |  <img src="https://j.gifs.com/nxvG7Y.gif" width="50%"/> |
