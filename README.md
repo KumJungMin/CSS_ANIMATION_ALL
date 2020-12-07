@@ -1,4 +1,4 @@
-# css애니메이션 공부 모음   *2020.12.03(수정)*
+# css애니메이션 공부 모음   *2020.12.07(수정)*
 
 <br/>
 
@@ -20,8 +20,10 @@
 |14|  <a href="https://github.com/KumJungMin/CSS_ANIMATION_GRADIENT_BAR/">그라데이션 바 애니메이션</a>| <img width="50%" src="https://media.giphy.com/media/jSPFuSQKwz62t8XqvI/giphy.gif"/> |
 |15|  <a href="https://velog.io/@gicomong/css100-day1">햄버거 메뉴</a>|  <img src="https://j.gifs.com/wVJogm.gif" width="50%"/>|
 |16| <a href="https://velog.io/@gicomong/css100-day2">해가 지는 애니메이션</a> | <img src="https://j.gifs.com/K13gEz.gif" width="50%"/> |
-|16| <a href="https://velog.io/@gicomong/css100-day3">세 원이 차례로 커지는 애니메이션</a> |  <img src="https://j.gifs.com/lxrZEJ.gif" width="50%"/>|
-|17| <a href="https://velog.io/@gicomong/css100-day4">canvas로 그리는 차트</a> |  <img src="https://media.vlpt.us/images/gicomong/post/c14ea399-1a11-41e8-bf7a-cab5b867083e/KakaoTalk_Photo_2020-11-30-21-09-04.png" width="50%"/>|
-|18| <a href="https://velog.io/@gicomong/css100-day5">일부가 투명한 원과 프로필</a> |  <img src="https://j.gifs.com/NL3l1K.gif" width="50%"/>|
-|19| <a href="https://velog.io/@gicomong/css100-day6">검색창, 메뉴 이벤트</a> |  <img src="https://j.gifs.com/k8qyA6.gif" width="50%"/>|
-|20| <a href="https://velog.io/@gicomong/css100-day7">구름, 버블 이벤트</a> |  <img src="https://j.gifs.com/JyvDWJ.gif" width="50%"/>|
+|17| <a href="https://velog.io/@gicomong/css100-day3">세 원이 차례로 커지는 애니메이션</a> |  <img src="https://j.gifs.com/lxrZEJ.gif" width="50%"/>|
+|18| <a href="https://velog.io/@gicomong/css100-day4">canvas로 그리는 차트</a> |  <img src="https://media.vlpt.us/images/gicomong/post/c14ea399-1a11-41e8-bf7a-cab5b867083e/KakaoTalk_Photo_2020-11-30-21-09-04.png" width="50%"/>|
+|19| <a href="https://velog.io/@gicomong/css100-day5">일부가 투명한 원과 프로필</a> |  <img src="https://j.gifs.com/NL3l1K.gif" width="50%"/>|
+|20| <a href="https://velog.io/@gicomong/css100-day6">검색창, 메뉴 이벤트</a> |  <img src="https://j.gifs.com/k8qyA6.gif" width="50%"/>|
+|21| <a href="https://velog.io/@gicomong/css100-day7">구름, 버블 이벤트</a> |  <img src="https://j.gifs.com/JyvDWJ.gif" width="50%"/>|
+|21| <a href="https://velog.io/@gicomong/css100-day10">신호등 만들기</a> |  <img src="https://j.gifs.com/r8zgEw.gif" width="50%"/>|
+|21| <a href="https://velog.io/@gicomong/css-animation-hover%EC%8B%9C-%EC%83%89%EC%9D%B4-%EB%B3%80%ED%95%98%EB%8A%94-%EC%9D%B4%EB%B2%A4%ED%8A%B8">hover시 랜덤으로 색이 변하는 이벤트</a> |  <img src="https://j.gifs.com/oVwA7A.gif" width="50%"/> |
